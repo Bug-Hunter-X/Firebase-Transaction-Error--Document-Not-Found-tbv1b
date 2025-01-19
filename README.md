@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a Firebase transaction error. The error occurs when trying to increment a counter using a transaction, and the counter document does not exist. The solution shows how to handle this error gracefully using the transaction.get().exists property
